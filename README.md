@@ -4,7 +4,7 @@ I'm a Junior iOS Developer
 
 ### About me:
 + I’d been Oracle Database Administrator for 6 years, last three of them as Senior
-+ Currently I’m working on several iOS applications to improve my skills at programming.
++ Currently I’m working on several iOS applications, implementing new features in them as my skills grows
 + Took following cources: 
   + Course by Stanford University of CS193P Spring 2021 ‘Developing Applications for iOS using SwiftUI’
   + Free 12-day course as part of 100 Days of SwiftUI by [Paul Hudson](https://www.hackingwithswift.com)
