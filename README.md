@@ -1,5 +1,5 @@
 ### Hello! 
-I'm a Junior iOS Developer 
+I'm an iOS Developer 
 ---
 
 ### About me:
