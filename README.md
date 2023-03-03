@@ -20,7 +20,7 @@ I'm an iOS Developer
 | Xcode | PostgreSQL |
 | CoreData | Solaris |
 | FireBase | Linux |
-|  | Bash |
+| JSON | Bash |
 |  | Hostmon |
 |  | Grafana |
 |  | Jira |
