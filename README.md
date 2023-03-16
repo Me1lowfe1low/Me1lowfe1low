@@ -21,6 +21,9 @@ I'm an iOS Developer
 | CoreData | Solaris |
 | FireBase | Linux |
 | JSON | Bash |
-|  | Hostmon |
-|  | Grafana |
-|  | Jira |
+| Unit Testing | Hostmon |
+| Agile | Grafana |
+| Scrum | Jira |
+|  | Agile |
+|  | Scrum |
+|  | Mentoring |
