@@ -24,6 +24,7 @@ I'm an iOS Developer
 | Unit Testing | Hostmon |
 | Agile | Grafana |
 | Scrum | Jira |
-|  | Agile |
-|  | Scrum |
+| Jira | Agile |
+| Confluence | Scrum |
 |  | Mentoring |
+|  | Confluence |
