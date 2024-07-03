@@ -3,7 +3,7 @@ I'm an iOS Developer
 ---
 
 ### About me:
-+ I'm currently an iOS developer at [Doubletapp](https://doubletapp.ai/en)
++ I'm currently an iOS developer at Triada
 + I have also an expertise in Database administration as Senior Oracle Database Administrator 
 
 ### Level of expertise:
